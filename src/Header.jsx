@@ -33,6 +33,7 @@ const Header = () => {
           <a href="#" className="hover:text-blue-600 transition">About</a>
           <a href="#" className="hover:text-blue-600 transition">Services</a>
           <a href="#" className="hover:text-blue-600 transition">Contact</a>
+          <a href="#" className="hover:text-blue-600 transition">DevA</a>
         </nav>
 
         {/* CTA Button */}
